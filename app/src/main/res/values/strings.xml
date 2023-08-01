@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">loginem2em</string>
+    <string name="title_home">ראשי</string>
+    <string name="title_events">ארועים</string>
+    <string name="title_lib">ספריה</string>
+    <string name="title_reports">דו"חות</string>
+    <string name="title_profile">פרופיל</string>
+</resources>
